@@ -632,3 +632,6 @@ const fullNames = names.map((name)=>{
 
 // 定数fullNamesを出力してください
 console.log(fullNames);
+
+
+git test
